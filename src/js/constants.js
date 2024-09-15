@@ -1,0 +1,1 @@
+const OPTIONS = ['servicecenter_solution_option', 'lifetime_deployment_option', 'allow_close_option']

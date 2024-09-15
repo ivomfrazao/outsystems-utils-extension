@@ -1,0 +1,20 @@
+{
+	"name": {
+		"message": "OutSystems Utilities"
+	},
+	"description": {
+		"message": "Utilities for OutSystems' DevOps web applications."
+	},
+	"configurations_header": {
+		"message": "Configurations"
+	},
+	"servicecenter_solution_option": {
+		"message": "ServiceCenter's Solution"
+	},
+	"lifetime_deployment_option": {
+		"message": "LifeTime's Deployment Plan"
+	},
+	"allow_close_option": {
+		"message": "Allow tab closing without confirmation"
+	}
+}

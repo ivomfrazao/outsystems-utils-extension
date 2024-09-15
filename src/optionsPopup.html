@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title data-i18n="optionpagetitle"></title>
+<link rel="stylesheet" type="text/css" href="css/optionsPopup.css">
+<script type="text/javascript" src="js/constants.js"></script>
+<script type="text/javascript" src="js/optionsPopup.js"></script>
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#232323" media="(prefers-color-scheme: dark)">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+</head>
+<body>
+<div id="main-content" role="main">
+	<div class="options-group">
+		<h2 data-i18n="configurations_header" class="options-group-header"></h2>
+		<div class="option-toggle">
+			<label for="servicecenter_solution_option" class="option-toggle-label" data-i18n="servicecenter_solution_option"></label>
+			<label class="switch"><input id="servicecenter_solution_option" type="checkbox" role="switch" aria-invalid="false">
+				<span class="slider round animations_enabled"></span>
+			</label>
+		</div>
+		<div class="option-toggle">
+			<label for="lifetime_deployment_option" class="option-toggle-label" data-i18n="lifetime_deployment_option"></label>
+			<label class="switch"><input id="lifetime_deployment_option" type="checkbox" role="switch" aria-invalid="false">
+				<span class="slider round animations_enabled"></span>
+			</label>
+		</div>
+		<div class="option-toggle">
+			<label for="allow_close_option" class="option-toggle-label" data-i18n="allow_close_option"></label>
+			<label class="switch"><input id="allow_close_option" type="checkbox" role="switch" aria-invalid="false">
+				<span class="slider round animations_enabled"></span>
+			</label>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="js/translate.js"></script>
+</body>
+</html>

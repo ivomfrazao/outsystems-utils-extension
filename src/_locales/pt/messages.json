@@ -1,0 +1,20 @@
+{
+	"name": {
+		"message": "Utilitários OutSystems"
+	},
+	"description": {
+		"message": "Utilitários para as aplicações DevOps web da OutSystems."
+	},
+	"configurations_header": {
+		"message": "Configurações"
+	},
+	"servicecenter_solution_option": {
+		"message": "Solução do ServiceCenter"
+	},
+	"lifetime_deployment_option": {
+		"message": "Plano de Deploy do LifeTime"
+	},
+	"allow_close_option": {
+		"message": "Permitir que separador feche sem confirmação"
+	}
+}
